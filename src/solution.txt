@@ -1,0 +1,7 @@
+PAR OPTIMIZED Guess found:  with size: 1
+PAR OPTIMIZED Guess found: g@ with size: 2
+PAR OPTIMIZED Guess found: hX with size: 3
+PAR OPTIMIZED Guess found: D{"x with size: 4
+PAR OPTIMIZED Guess found: $k1 with size: 5
+PAR OPTIMIZED Guess found: Be1A
+@ with size: 6
